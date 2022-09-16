@@ -1,5 +1,7 @@
-Un simple sergal que le gusta aprender cosas nuevas
-Curioso y un poco extrovertido
+Im a fluffy sergal dev
 
 # Proyectos actualmente activos
  - [FurrApp](https://github.com/ulf-frostypaw/furapp "My Fursonal website ^w^")
+
+## Estadisticas
+[![trophy](https://github-profile-trophy.vercel.app/?username=ulf-frostypaw&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
