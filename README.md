@@ -1,6 +1,6 @@
 Im a fluffy sergal dev
 
-# Proyectos actualmente activos
+## Proyectos
  - [FurrApp](https://github.com/ulf-frostypaw/furapp "My Fursonal website ^w^")
  
  Leer para más información: https://github.com/users/ulf-frostypaw/projects/4
