@@ -1,4 +1,8 @@
-Im a fluffy sergal dev
+Soy un desarrollador independiente que le gusta hacer cosas que los demás no les gusta hacer. Tambíen soy un soñador con esperanza de que este planeta sea un lugar mejor. Tambíen me gusta parender idiomas, actualemente sé: Espetanto, Inglés, y un poco de portugues, mi lengua materna es el español (por si no se ha notado XD).
+
+<a href='https://www.facebook.com/ulfthefolf' target="_blank"><img alt='Facebook' src='https://img.shields.io/badge/UlfFrostyPaw-100000?style=flat&logo=Facebook&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://www.youtube.com/channel/UC1GCLch0ZBWBHYok7VZEQ7Q' target="_blank"><img alt='Youtube' src='https://img.shields.io/badge/UlfFrostyPaw-100000?style=flat&logo=Youtube&logoColor=white&labelColor=FF0000&color=black'/></a>
+<a href='https://twitter.com/UlfFrostyPaw' target="_blank"><img alt='Twitter' src='https://img.shields.io/badge/Twitter-100000?style=flat&logo=Twitter&logoColor=white&labelColor=1DA1F2&color=black'/></a>
 
 ## Proyectos
  - [FurrApp](https://github.com/ulf-frostypaw/furapp "My Fursonal website ^w^")
@@ -10,9 +14,3 @@ Lista de cosas por hacer en los proyectos y que probablemente no serán añadido
 
 ## Estadisticas
 [![trophy](https://github-profile-trophy.vercel.app/?username=ulf-frostypaw&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-## imagenes creadas por una inteligencia artificial (al menos a mi me gustaron <3) :3
-<div style="display:flex;">
-<img src="https://raw.githubusercontent.com/ulf-frostypaw/ulf-frostypaw/main/images/1.png?raw=true" width="200" title="Imagen autogenerada por inteligencia artificial" />
-<img src="https://raw.githubusercontent.com/ulf-frostypaw/ulf-frostypaw/main/images/2.png?raw=true" width="200" title="Otras imagen autogenerada por inteligencia artificial" />
-</div>
