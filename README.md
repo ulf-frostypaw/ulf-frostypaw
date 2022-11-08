@@ -4,6 +4,9 @@ Soy un desarrollador independiente que le gusta hacer cosas que los demás no le
 <a href='https://www.youtube.com/channel/UC1GCLch0ZBWBHYok7VZEQ7Q' target="_blank"><img alt='Youtube' src='https://img.shields.io/badge/UlfFrostyPaw-100000?style=flat&logo=Youtube&logoColor=white&labelColor=FF0000&color=black'/></a>
 <a href='https://twitter.com/UlfFrostyPaw' target="_blank"><img alt='Twitter' src='https://img.shields.io/badge/Twitter-100000?style=flat&logo=Twitter&logoColor=white&labelColor=1DA1F2&color=black'/></a>
 
+## Cosas que uso
+[![Mis habilidades iwi](https://skillicons.dev/icons?i=js,html,css,react,vue)](https://github.com/ulf-frostypaw/)
+
 ## Proyectos
  - [FurrApp](https://github.com/ulf-frostypaw/furapp "My Fursonal website ^w^")
  - [Fundamentos del Sekir: Lo básico para aprender](https://github.com/ulf-frostypaw/sekir)
