@@ -3,6 +3,7 @@ Soy un desarrollador independiente que le gusta hacer cosas que los demás no le
 <a href='https://www.facebook.com/ulfthefolf' target="_blank"><img alt='Facebook' src='https://img.shields.io/badge/UlfFrostyPaw-100000?style=flat&logo=Facebook&logoColor=white&labelColor=black&color=black'/></a>
 <a href='https://www.youtube.com/channel/UC1GCLch0ZBWBHYok7VZEQ7Q' target="_blank"><img alt='Youtube' src='https://img.shields.io/badge/UlfFrostyPaw-100000?style=flat&logo=Youtube&logoColor=white&labelColor=FF0000&color=black'/></a>
 <a href='https://twitter.com/UlfFrostyPaw' target="_blank"><img alt='Twitter' src='https://img.shields.io/badge/Twitter-100000?style=flat&logo=Twitter&logoColor=white&labelColor=1DA1F2&color=black'/></a>
+<a href='t.me/UlfFrostyPaw' target="_blank"><img alt='Telegram' src='https://img.shields.io/badge/@UlfFrostyPaw-100000?style=flat&logo=Telegram&logoColor=white&labelColor=0088cc&color=black'/></a>
 
 ## Cosas que uso
 [![Mis habilidades iwi](https://skillicons.dev/icons?i=js,html,css,react,vue)](https://github.com/ulf-frostypaw/)
