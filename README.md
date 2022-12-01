@@ -10,9 +10,9 @@ Soy un desarrollador independiente que le gusta hacer cosas que los demás no le
 
 ## Proyectos
  - [FurrApp](https://github.com/ulf-frostypaw/furapp "My Fursonal website ^w^")
- - [Fundamentos del Sekir: Lo básico para aprender](https://github.com/ulf-frostypaw/sekir)
+ - [Fundamentos del Sekir: Lo básico para aprender [PAUSADO] ](https://github.com/ulf-frostypaw/sekir)
  - [MyFursona: El antecesor de FurAffinity](https://github.com/ulf-frostypaw/my-fursona.github.io)
- - [Iconmonstr-react: Una librería con la colección de iconmonstr para React.](https://github.com/ulf-frostypaw/react-iconmostr)
+ - [Iconmonstr-react: Una librería con la colección de iconmonstr para React. [PAUSADO] ](https://github.com/ulf-frostypaw/react-iconmostr)
  
 Lista de cosas por hacer en los proyectos y que probablemente no serán añadidos aquí, pero que me gustaría que alguien más lo hiciera: https://github.com/users/ulf-frostypaw/projects/4
 
