@@ -29,7 +29,6 @@ Desafortunadamente me preocupo demasido porque las cosas salgan bien a la primer
 <a href='https://twitter.com/UlfFrostyPaw' target="_blank"><img alt='Twitter' src='https://img.shields.io/badge/Twitter-100000?style=flat&logo=Twitter&logoColor=white&labelColor=1DA1F2&color=black'/></a>
 <a href='https://murrtube.net/ulf' target="_blank"><img alt='Murrtube Badge' src="https://shields.io/badge/Murrtube-UlfFrostyPaw-black?&style=flat-square"/></a>
 
-
 ## Habilidades
 - inglés y esperanto [Puedo hacer oraciones simples, y sigo mejorando poco a poco]
 - Cursos de Front [Me gustaría mejorar mis habilidades en el diseño]
@@ -37,6 +36,8 @@ Desafortunadamente me preocupo demasido porque las cosas salgan bien a la primer
   - Actualmente curso: C++. Para desarrollo de aplicaciones moviles y videojuegos.
 - Locución [Me gusta ser más extrovertido y quiero usar mi voz para dar realce a esos pequeños proyectos que tengo en mente]
 
+### Escuchame aquí
+_(Todavía no hay nada aqui.)_
 
 ## Cosas que uso
 [![Mis habilidades iwi](https://skillicons.dev/icons?i=js,html,css,react,vue)](https://github.com/ulf-frostypaw/)
