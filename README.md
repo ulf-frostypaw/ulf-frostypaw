@@ -19,10 +19,16 @@ Soy un desarrollador independiente que le gusta hacer cosas que los demás no le
 
 Desafortunadamente me preocupo demasido porque las cosas salgan bien a la primera o de lo contrario lo abandono. Me distraigo facilmente con las pequeñas cosas pero trato de mejorar poco a poco en absolutamente todo, ya que estoy cansado de que los demás no hagan absolutamente nada por cambiar la vida estresante que llevan. En fin, el psicologo me ha ayudado demasiado a mejorar y darme prioridad. Hasta luego personas desconocida :)
 
-<a href='https://www.facebook.com/ulfthefolf' target="_blank"><img alt='Facebook' src='https://img.shields.io/badge/UlfFrostyPaw-100000?style=flat&logo=Facebook&logoColor=white&labelColor=black&color=black'/></a>
-<a href='https://www.youtube.com/@UlfFrostyPaw' target="_blank"><img alt='Youtube' src='https://img.shields.io/badge/UlfFrostyPaw-100000?style=flat&logo=Youtube&logoColor=white&labelColor=FF0000&color=black'/></a>
+## Métodos de contacto
+<a href='https://www.facebook.com/ulfthefolf' target="_blank"><img alt='Facebook' src='https://img.shields.io/badge/UlfFrostyPaw-100000?style=flat-square&logo=Facebook&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://www.youtube.com/@UlfFrostyPaw' target="_blank"><img alt='Youtube' src='https://img.shields.io/badge/UlfFrostyPaw-100000?style=flat-square&logo=Youtube&logoColor=white&labelColor=FF0000&color=black'/></a>
+<a href='https://t.me/UlfFrostyPaw' target="_blank"><img alt='Telegram' src='https://img.shields.io/badge/@UlfFrostyPaw-100000?style=flat-square&logo=Telegram&logoColor=white&labelColor=0088cc&color=black'/></a>
+<a href='https://www.furaffinity.net/user/ulffrostypaw' target="_blank"><img alt='FurAffinity Badge' src='https://shields.io/badge/FA-UlfFrostyPaw-36566F?logo=Fur%20Affinity&style=flat-square'/></a>
+
+### Metodos de contacto [NSFW only]
 <a href='https://twitter.com/UlfFrostyPaw' target="_blank"><img alt='Twitter' src='https://img.shields.io/badge/Twitter-100000?style=flat&logo=Twitter&logoColor=white&labelColor=1DA1F2&color=black'/></a>
-<a href='https://t.me/UlfFrostyPaw' target="_blank"><img alt='Telegram' src='https://img.shields.io/badge/@UlfFrostyPaw-100000?style=flat&logo=Telegram&logoColor=white&labelColor=0088cc&color=black'/></a>
+<a href='https://murrtube.net/ulf' target="_blank"><img alt='Murrtube Badge' src="https://shields.io/badge/Murrtube-UlfFrostyPaw-black?&style=flat-square"/></a>
+
 
 ## Habilidades
 - inglés y esperanto [Puedo hacer oraciones simples, y sigo mejorando poco a poco]
