@@ -7,12 +7,10 @@ Soy un desarrollador independiente y autónomo. Con experiencia de un **un año 
 [![Mis habilidades iwi](https://skillicons.dev/icons?i=js,html,css,react,vue,php,)](https://github.com/ulf-frostypaw/)
 
 ## Habilidades
-- inglés, españo y esperanto. [Me gusta aprender idiomas]
-- Locución [Le doy particulares formas de vida a las ideas de los demás]
-- Desarrollo front y back
+- inglés, español y esperanto. [Me gusta aprender idiomas]
 
 ## Metas
-- aprender c++ [en progreso]
+
 - viajar a otro país [pendiente]
 - ser famoso e influyente [pendiente]
 
