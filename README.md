@@ -1,5 +1,5 @@
-<div style="text-align: center;">
-    <img src="./mapache.png" title="Mapache" alt="Mi fursona" style="max-width: 45%;">
+<div align="center">
+    <img src="./mapache.png" title="Mapache" alt="Mi fursona" width="45%">
 </div>
 
 # ✨ ¡Hola! Soy Quirino Emmanuel. (Ulf FrostyPaw) ✨
@@ -7,13 +7,13 @@
 Con más de 5 años de experiencia, me especializo en el desarrollo de software web y móvil. Mi objetivo es **transformar su idea** en una ***solución efectiva*** que simplifique sus desafíos diarios. Planifico, organizo y desarrollo su aplicación que aborde problemas reales de nuestra sociedad, con el fin de hacer su vida más ***fácil, eficiente y ágil***.
 
 ## Proyectos
-<div style="text-align: center;">
-    <img src="./SKELETON.png" alt="Post skeleton" style="max-width: 100%;">
+<div align="center">
+    <img src="./SKELETON.png" alt="Post skeleton" width="100%">
 </div>
 
 ## Contácteme vía
 
-<div style="text-align: center;">
+<div align="center">
     <a href="https://t.me/sergalito">
         <img src="https://cdn3.iconfinder.com/data/icons/social-icons-33/512/Telegram-256.png" width="40" />
     </a>
