@@ -40,16 +40,16 @@ Emprendedor en servicios de redes, instalación de cámaras, venta y provisión 
 
 ---
 
-### 🌐 Pastoral de Medios Digitales (2020 – Actualidad)
+### 🌐 Pastoral de Medios de Comunicación (2020 – Actualidad)
 - **Rol:** Coordinador y líder de equipo  
 - **Actividades:** Transmisión de misas, diseño de flyers, gestión de redes sociales.  
-- **Impacto:** Difusión digital del Santuario y alcance a la comunidad local y global.
+- **Impacto:** Difusión digital del [Santuario de Padre Jesús de Petatlán](https://padrejesusdepetatlan.org/) y alcance a la comunidad local y global.
 
 ---
 
 ### 🛠️ Sistema para Taller Mecánico
 - **Rol:** Desarrollador principal  
-- **Tecnologías:** Vibecoding, PHP, MySQL  
+- **Tecnologías:** Vibecoding, NodeJS, MySQL, Bun
 - 🔗 [Repositorio (privado)](https://github.com/ulf-frostypaw/tallermecanico87-front)
 
 ---
