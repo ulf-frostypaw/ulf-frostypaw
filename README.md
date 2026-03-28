@@ -1,51 +1,119 @@
-<h1 align="left">✨ Hola! Soy Ulf FrostyPaw. :3</h1>
+# 👋 Hola, soy Quirino Emmanuel Mendes Ramos (Ulf FrostyPaw)
 
-###
+**TSU en Gestión y Mantenimiento de Software, área Multiplataforma**  
+Actualmente estudiando la **Ingeniería en Desarrollo y Mantenimiento de Software**.  
+Desarrollador principal y líder de proyectos digitales, especializado en backend, servidores Linux y soluciones para PyMEs.  
+Emprendedor en servicios de redes, instalación de cámaras, venta y provisión de equipos y servidores a bajo costo para empresas y hogares.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ulf-frostypaw&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ulf-frostypaw&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
-</div>
+---
 
-###
+## 🚀 Proyectos Destacados
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="50" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/astro/FF5D01" height="50" alt="astro logo"  />
-</div>
+### 📚 Sistema de Libros Digitales – Santuario de Padre Jesús de Petatlán
+- **Rol:** Desarrollador principal  
+- **Tecnologías:** PHP (FlightPHP), Docker, contenedores, Dashboard-MPV  
+- **Impacto:** Preservación del archivo histórico digital del santuario y agilización de búsquedas.  
+- 🔗 [Repositorio (privado)](https://github.com/ulf-frostypaw/SAE-DASHBOARD)
 
-###
+---
 
-<div align="center">
-  <a href="https://www.youtube.com/@UlfFrostyPaw" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="youtube logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/sergalote/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/sergalote" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="twitter logo"  />
-  </a>
-  <a href="https://t.me/KesoProject" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="telegram logo"  />
-  </a>
-</div>
+### 🖥️ Dashboard-MPV (Base de Proyectos)
+- **Rol:** Desarrollador principal  
+- **Descripción:** Base modular para sistemas de administración, puntos de venta y gestión parroquial.  
+- **Tecnologías:** PHP, Docker, MySQL, FlightPHP  
+- 🔗 [Repositorio (privado)](https://github.com/ulf-frostypaw/dashboard-MPV)
 
-###
+---
 
-<img src="https://raw.githubusercontent.com/ulf-frostypaw/ulf-frostypaw/output/snake.svg" alt="Snake animation" />
+### 🖥️ Optimización de Sistema Legacy (PHP 5.4)
+- **Rol:** Desarrollador principal  
+- **Tecnologías:** PHP, MySQL, Docker  
+- **Impacto:** Migración y mejora de un sistema sin soporte desde 2015, adaptado a nuevos requerimientos.
 
-###
+---
+
+### 🎥 Plataforma Self-Hosted de Videos
+- **Rol:** Desarrollador principal  
+- **Tecnologías:** NodeJS, Bun, React, Docker  
+- **Impacto:** Sistema privado de streaming en servidor propio para entretenimiento personal.  
+- 🔗 [Repositorio (privado)](https://github.com/ulf-frostypaw/selfhosted-video-platform)
+
+---
+
+### 🌐 Pastoral de Medios Digitales (2020 – Actualidad)
+- **Rol:** Coordinador y líder de equipo  
+- **Actividades:** Transmisión de misas, diseño de flyers, gestión de redes sociales.  
+- **Impacto:** Difusión digital del Santuario y alcance a la comunidad local y global.
+
+---
+
+### 🛠️ Sistema para Taller Mecánico
+- **Rol:** Desarrollador principal  
+- **Tecnologías:** Vibecoding, PHP, MySQL  
+- 🔗 [Repositorio (privado)](https://github.com/ulf-frostypaw/tallermecanico87-front)
+
+---
+
+### 🐾 Mapache Lang
+- **Rol:** Creador del lenguaje  
+- **Descripción:** Lenguaje de programación en español inspirado en Python, con sintaxis simplificada tipo pseudocódigo.  
+- 🔗 [Repositorio](https://github.com/ulf-frostypaw/mapache-lang)
+
+---
+
+### 🤖 Rambley Raccoon – Agente de IA para Domótica
+- **Rol:** Desarrollador principal  
+- **Descripción:** Agente de IA experimental para integración con domótica, usando modelos ligeros de IA y voz.  
+- 🔗 [Repositorio](https://github.com/ulf-frostypaw/rambley-raccoon)
+
+---
+
+### 🏫 Página Web – Centro Escolar Monseñor Gregorio M. Bello Carranca
+- **Rol:** Desarrollador principal  
+- **Tecnologías:** Astro, HTML, CSS, JS  
+- **Impacto:** Desarrollo de la página institucional para difusión y comunicación escolar.  
+- 🔗 [Repositorio](https://github.com/ulf-frostypaw/cmonsenor)
+
+---
+
+### 🌐 Red Social Básica en PHP (2020)
+- **Rol:** Desarrollador principal  
+- **Tecnologías:** PHP, MySQL, HTML, CSS  
+- **Impacto:** Proyecto académico para comprender arquitecturas sociales.
+
+---
+
+## 🛠️ Habilidades Técnicas
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![NodeJS](https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Astro](https://img.shields.io/badge/Astro-FF5A03?style=for-the-badge&logo=astro&logoColor=white)
+
+- Desarrollo backend (PHP, NodeJS, Bun, Python)  
+- Frontend con React, Tailwind, HTML, CSS, Astro  
+- Administración de servidores Linux (Ubuntu, Debian, Arch)  
+- Contenedores y virtualización con Docker  
+- Optimización de sistemas legacy y migraciones
+
+---
+
+## 🤝 Habilidades Blandas
+- Liderazgo y coordinación de equipos  
+- Comunicación clara y tolerancia  
+- Paciencia y apoyo en la mejora de otros  
+- Resolución de problemas con enfoque colaborativo
+
+---
+
+## 📬 Contacto
+- 📧 [Telegram](https://t.me/sergalote)  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/sergalote/)  
+- 🐙 [GitHub](https://github.com/ulf-frostypaw)
+- ⛓️ [GitLab](https://gitlab.com/ulf-frostypaw)
+- ⛓️ [Sitio web](https://ulffrostypaw.com)
+
+---
